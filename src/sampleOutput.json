@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Real Madrid ask for Champions League final answers",
+    "description": "Real Madrid have asked for answers into the \"series of unfortunate events\" at the Champions League final against Liverpool in Paris.",
+    "url": "http://www.bbc.co.uk/sport/football/61681762",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/CDE8/production/_125021725_hi076357903.jpg",
+    "publishedAt": "2022-06-03T15:22:24.3327348Z",
+    "content": "Watch: Fans shared videos showing pepper spray being deployed and children crying in Paris\r\nReal Madrid have asked for answers into the \"series of unfortunate events\" at the Champions League final ag… [+2572 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bavaria train crash: At least three killed in German rail accident",
+    "description": "At least three people die and some 60 are injured after a train derails in Bavaria.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61684048",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE22/production/_125026906_gettyimages-1241072849.jpg",
+    "publishedAt": "2022-06-03T13:52:24.411446Z",
+    "content": "Image source, Getty Images\r\nAt least three people were killed and about 60 injured when a train derailed in Germany's south-eastern state of Bavaria, police say. \r\nThe train, which was carrying many … [+1502 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Platinum Jubilee: Queen's faith celebrated at thanksgiving service",
+    "description": "The Queen watches the service at home but senior royals and Prince Harry and Meghan gather at St Paul's.",
+    "url": "http://www.bbc.co.uk/news/uk-61681066",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11EE2/production/_125024437_hi076481357.jpg",
+    "publishedAt": "2022-06-03T13:52:20.8966952Z",
+    "content": "By Joseph Lee &amp; George BowdenBBC News\r\nMedia caption, WATCH: Prince Harry and Meghan arrive at Jubilee service\r\nThe Archbishop of York praised the Queen's \"service and faithfulness\" as royals joi… [+5330 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Madhya Pradesh: Viral video shows India woman risking life for water",
+    "description": "It shows the woman going down a well without a rope or harness to access water.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-61679615",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E73/production/_124997142_water-ani.jpg",
+    "publishedAt": "2022-06-03T11:37:23.2113425Z",
+    "content": "A viral video showing a woman scaling the wall of a well to access water has highlighted the acute shortage in several areas of the central Indian state of Madhya Pradesh.\r\nThe video shows the woman … [+1853 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "In pictures: Who is at Queen's Thanksgiving service",
+    "description": "Royal family and politicians gather at St Paul's, as the Queen watches on television from Windsor.",
+    "url": "http://www.bbc.co.uk/news/uk-61681180",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15272/production/_125024668_gettyimages-1241071246.jpg",
+    "publishedAt": "2022-06-03T11:22:18.5700023Z",
+    "content": "The Royal Family and guests are attending a service of Thanksgiving for the Queen for her Platinum Jubilee at St Paul's Cathedral - but without the monarch herself. She is resting at Windsor Castle a… [+1366 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war latest: Russia's war in Ukraine enters 100th day",
+    "description": "It has become a war of attrition and Western nations must prepare for the long haul, Nato's chief says.",
+    "url": "http://www.bbc.co.uk/news/live/world-europe-61656289",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2022-06-03T06:37:23.9928749Z",
+    "content": "British MLRS rockets being fired on exercises in Latvia last monthImage caption: British MLRS rockets being fired on exercises in Latvia last month\r\nA top aide to Ukrainian President\r\nVolodymyr Zelen… [+2124 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pride month: Kuwait criticises US embassy over pro-LGBT tweets",
+    "description": "Two rainbow flag posts for Pride month were condemned by Kuwait officials for \"supporting homosexuality\".",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-61678929",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C79E/production/_125020115_gettyimages-1291637098.jpg",
+    "publishedAt": "2022-06-03T01:22:19.8676491Z",
+    "content": "By Leo SandsBBC News\r\nImage source, Getty Images\r\nKuwait has summoned a top US diplomat in protest over tweets from the American embassy supporting LGBT rights, its foreign ministry says.\r\nUS officia… [+2064 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden urges ban on assault-style weapons and gun age limits",
+    "description": "The US president says too many places in America have become killing fields.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61678983",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2022-06-03T00:22:20.7726853Z",
+    "content": "President Joe Biden has said the US should ban assault-style weapons and high-capacity magazines to tackle the \"carnage\" of gun violence.\r\nIn a primetime speech to the nation from the White House, Mr… [+502 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Could toxic Depp-Heard case have chilling effect on accusers?",
+    "description": "Could the Depp-Heard case have a chilling effect on others bringing allegations of domestic abuse?",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61664982",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6717/production/_125019362_index.jpg",
+    "publishedAt": "2022-06-02T23:52:20.6022888Z",
+    "content": "By Holly HonderichBBC News, Washington\r\nImage source, Getty Images\r\nAmber Heard became a victim of vicious online harassment during her defamation battle with Johnny Depp, involving allegations of in… [+7063 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Oklahoma hospital shooting: Five dead after gunman targets physician",
+    "description": "Police say the man blamed the doctor for his back pain and had purchased a rifle only hours earlier.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61676811",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1307/production/_125017840_gettyimages-1241045718.jpg",
+    "publishedAt": "2022-06-02T16:52:23.4616839Z",
+    "content": "Image source, Getty Images\r\nImage caption, Police respond to the scene of Wednesday's shooting at St Francis Hospital\r\nPolice have said a gunman who killed three employees and a patient at an Oklahom… [+2376 chars]"
+    }
+    ]
+    }
